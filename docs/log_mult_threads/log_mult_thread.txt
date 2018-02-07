@@ -1,0 +1,4 @@
+从  251 此路径同步到 252,253,254/usr/lib64/python2.6/logging/handlers.py 替换
+
+安装依赖：
+https://pypi.python.org/packages/87/06/179b41e44aa49c8d347b30f177ca47a4c7ed1c84fc890a68f9e5c22f6cd8/portalocker-1.1.0.tar.gz#md5=6593afdbfbfd79573c7e175548b4fcde

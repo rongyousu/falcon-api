@@ -1,0 +1,70 @@
+ 上线说明：
+ 
+ 线上svn 代码：
+ 1、代码同步
+ 将 datamining\dmp\code 代码 同步至 api服务器 /data/dmp/ 目录 （data账号执行）
+ 
+ 将 datamining\dmp\offline 代码 同步至 数据生产服务器 /data/dmpserver/offline 目录  （数据生成服务器已开通ssh 到 api服务器）
+ 
+ 2、代码权限赋予：
+  chown -R data:data *
+  
+ 3、映射 所有服务器 对应图片服务器的本地 host 地址 （hw oo mr ek 图片域）
+ 
+ 4、各服务器依赖安装
+ 
+
+注意：
+api服务器 /data/dmp/data  目录免覆盖
+数据生产服务器 /data/dmpserver/pic_sim/data 目录免覆盖
+ 
+
+
+glibc-2.14 支持 
+opencv 支持 （import cv2) 
+ 
+  
+pip install annoy （目前此模块以封装到系统，可不依赖安装）
+
+
+pip install -U setuptools
+pip install protobuf --upgrade
+pip install --upgrade appdirs
+
+falcon安装：
+pip install requests;
+pip install falcon; 
+pip install flake8
+pip install coverage
+pip install pytest
+pip install testing.mysqld
+pip install tox
+pip install gunicorn
+pip install  meinheld
+
+pip install aumbry （python2.6版本需要修改以下部分）
+1、修改
+  File "/usr/lib/python2.6/site-packages/aumbry/contract.py", line 58
+    return {key: os.environ[key] for key in keys_to_fetch}
+    
+    chang to:
+        result=[]
+        for key in keys_to_fetch:
+                result.append((key,os.environ[key]))
+
+        return result
+
+pip install importlib
+pip install alchemize
+pip install pike
+pip install docopt
+
+
+生成服务器需安装： pip install paramiko
+
+上线流程操作：
+
+1、api服务器 创建 /data/dmp/data/img_tests_annoy_dict 目录
+2、生产服务器 到 api服务器免登陆 可同步文件
+3、服务器时间同步 （目前时间有问题 ，不能同步线上业务数据）
+4、各 api服务器启动程序 nohup /usr/bin/python -u  __main__.py &
