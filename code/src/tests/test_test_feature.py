@@ -1,13 +1,13 @@
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 201, Inc. All Rights Reserved
 #
 ###########################################################
 """
 test class TestFeature
 
 File: test_test_feature
-Author: wangliang(wangliang1@100tal.com)
+
 Date: 2017/05/11 12:03
 """
 
