@@ -1,17 +1,6 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Feature Defination
 
-File: sem_params_feature.py
-Author: surongyou(surongyou@100tal.com)
-Date: 2018/02/05 17:42
-"""
 
 class SemParamsFeature(object):
     """
