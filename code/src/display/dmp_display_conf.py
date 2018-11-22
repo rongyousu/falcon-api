@@ -1,17 +1,6 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Feature Defination
 
-File: dmp_feature.py
-Author: liyu(liyu01@100tal.com)
-Date: 2017/05/15 17:42
-"""
 
 
 from src.util import configmanager
