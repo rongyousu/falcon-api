@@ -1,13 +1,13 @@
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 2017  Inc. All Rights Reserved
 #
 ###########################################################
 """
 Dict Creator Definition
 
 File: dict_creator.py
-Author: wangliang(wangliang1@100tal.com)
+Author: 
 Date: 2017/05/08 15:40
 """
 
