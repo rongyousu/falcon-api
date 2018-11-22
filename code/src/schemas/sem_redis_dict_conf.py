@@ -1,16 +1,6 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-ESDB schema
-File: sem_redis_dict_conf.py
-Author: surongyou(surongyou@100tal.com)
-Date: 2018/02/05 18:15
-"""
+
 from src.util import configmanager
 
 class SemRedisDictConf(object):
