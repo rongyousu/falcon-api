@@ -3,14 +3,14 @@
 # -*- coding=utf-8 -*-
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 2017, Inc. All Rights Reserved
 #
 ###########################################################
 """
 manager log
 
 File: sysmanagerlog.py
-Author: surongyou(surongyou@100tal.com)
+Author: 
 Date: 2017/05/08 16:28
 """
 
