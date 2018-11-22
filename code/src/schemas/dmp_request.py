@@ -1,15 +1,4 @@
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Request defination
 
-File: dmp_request.py
-Author: wangliang(wangliang1@100tal.com)
-Date: 2017/05/05 14:56
-"""
 
 import defines
 import test_feature
