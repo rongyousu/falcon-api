@@ -1,13 +1,12 @@
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 2017 , Inc. All Rights Reserved
 #
 ###########################################################
 """
 test class DictConf
 
-File: test_dict_conf
-Author: wangliang(wangliang1@100tal.com)
+File: test_dict_co
 Date: 2017/05/10 16:26
 """
 
