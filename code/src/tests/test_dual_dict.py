@@ -1,13 +1,12 @@
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 2017, Inc. All Rights Reserved
 #
 ###########################################################
 """
 test class DualDict
 
-File: test_dual_dict
-Author: wangliang(wangliang1@100tal.com)
+File: test_dual_dic
 Date: 2017/05/16 17:34
 """
 
