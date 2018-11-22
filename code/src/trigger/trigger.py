@@ -2,14 +2,14 @@
 # -*- coding=utf-8 -*-
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 20, Inc. All Rights Reserved
 #
 ###########################################################
 """
 Trigger Defination
 
 File: dmp_trigger.py
-Author: wangliang(wangliang1@100tal.com)
+Author:
 Date: 2017/05/05 19:13
 """
 from src.systemlog import sysmanagerlog
