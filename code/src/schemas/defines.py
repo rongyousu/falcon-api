@@ -1,15 +1,4 @@
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Common Structure Definition
 
-File: defines.py
-Author: wangliang(wangliang1@100tal.com)
-Date: 2017/05/05 16:00
-"""
 
 
 class ReturnCode(object):
