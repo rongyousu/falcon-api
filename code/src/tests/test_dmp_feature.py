@@ -1,13 +1,13 @@
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 2017, Inc. All Rights Reserved
 #
 ###########################################################
 """
 test class DmpFeature
 
 File: test_dmp_feature
-Author: wangliang(wangliang1@100tal.com)
+Author:
 Date: 2017/05/10 16:26
 """
 
