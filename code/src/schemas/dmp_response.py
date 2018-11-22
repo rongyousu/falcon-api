@@ -1,15 +1,4 @@
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Response defination
 
-File: dmp_response.py
-Author: wangliang(wangliang1@100tal.com)
-Date: 2017/05/05 14:56
-"""
 
 from src.schemas import defines
 from src.schemas import test_feature
