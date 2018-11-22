@@ -2,14 +2,14 @@
 # -*- coding=utf-8 -*-
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 2017 , Inc. All Rights Reserved
 #
 ###########################################################
 """
 pic_sim_dbreload.py 
 
 File: ***.py
-Author: surongyou(surongyou@100tal.com)
+Author:
 Date: 2017/05/18 10:30
 """
 
