@@ -1,17 +1,6 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Display Defination
 
-File: dmp_display.py
-Author: liyu(liyu01@100tal.com)
-Date: 2017/05/16 13:54
-"""
 
 from src.schemas import dmp_feature_set
 from src.schemas import dmp_response
