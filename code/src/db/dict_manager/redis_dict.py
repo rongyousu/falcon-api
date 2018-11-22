@@ -1,15 +1,4 @@
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-ES Dict Definition
 
-File: redis_dict.py
-Author: surongyou(surongyou@100tal.com)
-Date: 2018/02/05 14:30
-"""
 
 import os
 
