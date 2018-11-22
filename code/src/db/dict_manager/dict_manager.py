@@ -1,15 +1,4 @@
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Dict Manager Definition
 
-File: dict_manager.py
-Author: wangliang(wangliang1@100tal.com)
-Date: 2017/05/08 14:20
-"""
 
 from src.schemas import defines
 from src.schemas import sem_redis_dict_conf
