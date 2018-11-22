@@ -3,14 +3,14 @@
 
 ######################################################
 #
-#Copyright (c) 2017 xueersi.com,Inc.All Right Reserved
+#Copyright (c) 2017 ,Inc.All Right Reserved
 #
 ######################################################
 """
 Similar Test Trigger Extend DmpTrigger
 
 File: sem_params_trigger.py
-Author: surongyou(surongyou@100tal.com)
+Author: 
 Date: 2018/02/05 18:19
 """
 from src.schemas import sem_parames_feature
