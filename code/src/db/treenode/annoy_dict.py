@@ -1,15 +1,4 @@
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Annoy Dict Definition
 
-File: annoy_dict.py
-Author: wangliang(wangliang1@100tal.com)
-Date: 2017/05/08 15:35
-"""
 
 from src.schemas import defines
 from src.systemlog  import syserrorlog
