@@ -92,7 +92,7 @@ def remote_cmd(host, cmd):
 	return status
 
 def send_message(phone,message):
-        command = "curl \"http://api.xueersi.com/yunweimsg/sendMsg?phone=" + str(phone) + "&note=" + message + "\" "
+        command = "curl \"http://api.*****.com/yunweimsg/sendMsg?phone=" + str(phone) + "&note=" + message + "\" "
         if (os.system(command) == 0):
             print("the message is send success ")
       
@@ -134,11 +134,11 @@ def main():
         model_status = load_model()
         failure_list = []
         if model_status ==0:
-	          failure_list = rsync_file('/data/dmpserver/pic_sim/data/loadimg.ann', ['10.10.9.251', '10.10.9.252','10.10.9.253','10.10.9.254'], '/data/dmp.xueersi.com/data/img_tests_annoy_dict/loadimg.ann.gz',' cd /data/dmp.xueersi.com/data/img_tests_annoy_dict; tar -xzvf loadimg.ann.gz;  md5sum loadimg.ann > loadimg.ann.md5 ')
+	          failure_list = rsync_file('/data/dmpserver/pic_sim/data/loadimg.ann', ['111.11.11.111', '11.11.111.111','111.111.111.111','111.111.111.111'], '/data/dmp.xueersi.com/data/img_tests_annoy_dict/loadimg.ann.gz',' cd /data/dmp.xueersi.com/data/img_tests_annoy_dict; tar -xzvf loadimg.ann.gz;  md5sum loadimg.ann > loadimg.ann.md5 ')
 	else:
                   failure_list.append('the model is loading error!')
 
-        phones=['18210963058']
+        phones=['11111111']
         print 'the failure_list:'+str(failure_list)
 	if len(failure_list)>0:
                for p in phones:
