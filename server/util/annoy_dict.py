@@ -1,13 +1,13 @@
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 2017, Inc. All Rights Reserved
 #
 ###########################################################
 """
 Annoy Dict Definition
 
 File: annoy_dict.py
-Author: wangliang(wangliang1@100tal.com)
+Author: 
 Date: 2017/05/08 15:35
 """
 
