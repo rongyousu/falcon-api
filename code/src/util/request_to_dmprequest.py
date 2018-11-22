@@ -1,13 +1,13 @@
 ######################################################
 #
-#Copyright (c) 2017 xueersi.com,Inc.All Right Reserved
+#Copyright (c) 201,Inc.All Right Reserved
 #
 ######################################################
 """
 transform request to dmp_request 
 
 File: .py
-Author: wubo(wubo@100tal.com)
+Author
 Date: 2017/05/17 15:28
 """
 import json
