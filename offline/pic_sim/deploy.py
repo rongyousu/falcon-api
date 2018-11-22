@@ -134,7 +134,7 @@ def main():
         model_status = load_model()
         failure_list = []
         if model_status ==0:
-	          failure_list = rsync_file('/data/dmpserver/pic_sim/data/loadimg.ann', ['111.11.11.111', '11.11.111.111','111.111.111.111','111.111.111.111'], '/data/dmp.xueersi.com/data/img_tests_annoy_dict/loadimg.ann.gz',' cd /data/dmp.xueersi.com/data/img_tests_annoy_dict; tar -xzvf loadimg.ann.gz;  md5sum loadimg.ann > loadimg.ann.md5 ')
+	          failure_list = rsync_file('/data/dmpserver/pic_sim/data/loadimg.ann', ['111.11.11.111', '11.11.111.111','111.111.111.111','111.111.111.111'], '/data/dmp.***.com/data/img_tests_annoy_dict/loadimg.ann.gz',' cd /data/dmp.***.com/data/img_tests_annoy_dict; tar -xzvf loadimg.ann.gz;  md5sum loadimg.ann > loadimg.ann.md5 ')
 	else:
                   failure_list.append('the model is loading error!')
 
