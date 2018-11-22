@@ -2,15 +2,15 @@
 # -*- coding=utf-8 -*-
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 2017, Inc. All Rights Reserved
 #
 ###########################################################
 """
 base log
 
 File: syslog.py
-Author: surongyou(surongyou@100tal.com)
-Date: 2017/05/08 16:28
+Author:
+Date: 2017/05/08 16:2
 """
 
 
