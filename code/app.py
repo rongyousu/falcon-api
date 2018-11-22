@@ -2,14 +2,14 @@
 # -*- coding=utf-8 -*-
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 2017 , Inc. All Rights Reserved
 #
 ###########################################################
 """
 falcon api 主要逻辑区
 
 File: app.py
-Author: surongyou(surongyou@100tal.com)
+Author: surongyou
 Date: 2017/05/08 16:28
 """
 
