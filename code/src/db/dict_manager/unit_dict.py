@@ -1,15 +1,4 @@
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Dual Dict Definition
 
-File: dual_dict.py
-Author: wangliang(wangliang1@100tal.com)
-Date: 2017/05/08 14:30
-"""
 
 
 from src.schemas import defines
