@@ -1,17 +1,6 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-试题排重实现类
 
-File: test_dis_test.py
-Author: surongyou(surongyou@100tal.com)
-Date: 2017/05/08 16:28
-"""
 
 import json
 import falcon
