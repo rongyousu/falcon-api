@@ -1,17 +1,6 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-FeatureSet Defination
 
-File: dmp_feature_set.py
-Author: wangliang(wangliang1@100tal.com)
-Date: 2017/05/05 17:42
-"""
 
 import defines
 import dmp_feature
