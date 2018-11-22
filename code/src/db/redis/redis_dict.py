@@ -1,15 +1,4 @@
-###########################################################
-#
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
-#
-###########################################################
-"""
-Annoy Dict Definition
 
-File: redis_dict.py
-Author: surongyou(surongyou@100tal.com)
-Date: 2018/02/05 15:35
-"""
 
 from src.schemas import defines
 from src.systemlog  import syserrorlog
