@@ -3,14 +3,14 @@
 
 ######################################################
 #
-#Copyright (c) 2017 xueersi.com,Inc.All Right Reserved
+#Copyright (c) 2017,Inc.All Right Reserved
 #
 ######################################################
 """
 Similar Test Trigger Extend DmpTrigger
 
 File: similar_test_trigger.py
-Author: wubo(wubo@100tal.com)
+Author: 
 Date: 2017/05/14 23:19
 """
 from src.schemas import test_feature
