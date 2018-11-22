@@ -2,14 +2,14 @@
 # -*- coding=utf-8 -*-
 ###########################################################
 #
-# Copyright (c) 2017 xueersi.com, Inc. All Rights Reserved
+# Copyright (c) 20, Inc. All Rights Reserved
 #
 ###########################################################
 """
 Display Defination
 
 File: dmp_display.py
-Author: wangliang(wangliang1@100tal.com)
+Author: 
 Date: 2017/05/05 20:12
 """
 
